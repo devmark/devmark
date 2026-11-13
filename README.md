@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Subhajit Das 👋<br><br>### Cloud Engineer | DevOps Engineer | AWS | Kubernetes | CI/CD Automation<br><br>I'm a Cloud Engineer passionate about building, automating, and maintaining scalable cloud infrastructure and reliable deployment pipelines.<br><br>Currently working at **Kiswok Industries Pvt. Ltd.**, where I work on AWS infrastructure, CI/CD automation, containerized applications, Kubernetes deployments, and infrastructure monitoring.<br><br>### 🚀 What I Do<br>- ☁️ Design and manage cloud infrastructure using AWS and Terraform.<br>- ⚙️ Build CI/CD pipelines using Jenkins, GitHub Actions, Maven, and SonarQube.<br>- 🐳 Containerize and deploy applications using Docker and Kubernetes.<br>- 🔄 Implement GitOps-based deployments using Argo CD and Helm.<br>- 📊 Monitor infrastructure and application performance using Prometheus, Grafana, and CloudWatch.<br>- 🐧 Automate infrastructure operations and troubleshooting using Linux and Bash.<br><br>### 🛠️ Tech Stack<br><br>**Cloud & Infrastructure**<br>- AWS (EC2, S3, VPC, IAM, EKS, CloudWatch)<br>- Terraform<br><br>**DevOps & CI/CD**<br>- Jenkins, GitHub Actions, Git, Maven, SonarQube<br>- Argo CD, Helm<br><br>**Containers & Orchestration**<br>- Docker, Kubernetes<br><br>**Monitoring & Observability**<br>- Prometheus, Grafana, Node Exporter, CloudWatch<br><br>**Operating Systems & Scripting**<br>- Linux, Windows Server, Bash, Python<br><br>### 💼 Professional Experience<br><br>**Cloud Engineer | Kiswok Industries Pvt. Ltd.**<br>- Automated CI/CD workflows, reducing application release time from approximately 45 minutes to 10 minutes.<br>- Managed Kubernetes-based application deployments on Amazon EKS using Argo CD and Helm.<br>- Provisioned AWS infrastructure using Terraform, enabling faster and repeatable environment creation.<br>- Implemented infrastructure monitoring dashboards for manufacturing operations using Grafana and Prometheus.<br>- Supported enterprise applications and cloud infrastructure serving approximately 3,000 employees.<br><br>### 🎯 Currently Learning<br>- Advanced Kubernetes & AWS EKS<br>- DevOps Automation & Infrastructure as Code<br>- Site Reliability Engineering (SRE)<br>- Cloud Architecture and MLOps<br><br>### 📫 Let's Connect<br>- LinkedIn: www.linkedin.com/in/subhajit-das-a7064243b<br>- GitHub: You're already here!<br><br>---<br><br>⭐ *Building reliable infrastructure, automating deployments, and continuously learning.*
 
-<!--
-**devmark/devmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subhajit-das-a7064243b) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=devmark&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=devmark&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devmark&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=devmark&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
